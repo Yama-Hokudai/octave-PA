@@ -1,6 +1,6 @@
 * PulseAudio wrapper for GNU Octave
-** which enable simple experiments with acoustic signal
 ** purpose
+- enabling controling audio output and input
 ** features
 ** dependencies
 ** licence
