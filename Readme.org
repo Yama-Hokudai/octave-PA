@@ -1,4 +1,6 @@
-#+TITLE:Readme file for git repository - ocave-PA
-
 * PulseAudio wrapper for GNU Octave
 ** which enable simple experiments with acoustic signal
+** purpose
+** features
+** dependencies
+** licence
