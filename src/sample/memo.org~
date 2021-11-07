@@ -1,0 +1,3 @@
+* PulseAudioの基本的な流れ
+simple api からの推測
+** main loop を立ち上げる．オブジェクトのインスタンス化

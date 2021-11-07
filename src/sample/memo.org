@@ -1,0 +1,6 @@
+* PulseAudioの基本的な流れ
+（simple api からの推測）
+** main loop を立ち上げる．オブジェクトのインスタンス化．
+** audio stream の設定．sampling rate, channel数，量子化数などを設定する．
+** audio stream にデータを流し込む．
+** main loop をデストラクトする．
